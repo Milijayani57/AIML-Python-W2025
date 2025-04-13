@@ -1,8 +1,9 @@
-# Project title: MNIST Handwritten Digit Recognition
+# Project title: 
+MNIST Handwritten Digit Recognition
 
-# Description: Recognize handwritten digits with the help of a Neural Network
+Description: Recognize handwritten digits with the help of a Neural Network
 
-# Setup instructions:
+## Setup instructions:
 python3 -m venv .venv  # Create the virtual environment
 
 source .venv/bin/activate  # Activate on Linux/macOS
@@ -10,7 +11,7 @@ source .venv/bin/activate  # Activate on Linux/macOS
 
 pip install -r requirements.txt  # Install dependencies
 
-# Project structure:
+## Project structure:
 AIML-Python-W2025/
 ├── README.md
 ├── requirements.txt
