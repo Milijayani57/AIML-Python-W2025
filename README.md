@@ -12,6 +12,7 @@ source .venv/bin/activate  # Activate on Linux/macOS
 pip install -r requirements.txt  # Install dependencies
 
 ## Project structure:
+```
 AIML-Python-W2025/
 ├── README.md
 ├── requirements.txt
@@ -31,3 +32,4 @@ AIML-Python-W2025/
 ├── reports/
 │   └── figures/
 │       └── ... (generated figures)
+```
